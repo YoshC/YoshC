@@ -3,12 +3,11 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/YoshC/YoshC/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="152" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
@@ -57,8 +56,6 @@
 </div>
 
 ###
-
-<br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/YoshC/YoshC/snake-output/snake.svg" alt="Snake animation" />
 
