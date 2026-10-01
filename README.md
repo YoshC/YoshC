@@ -7,7 +7,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="152" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="152" src="https://www.gamerfocus.co/juegos/skirk-genshin-impact-guia-de-mejor-build-equipo-arma-materiales-y-mas/"  />
 
 ###
 
