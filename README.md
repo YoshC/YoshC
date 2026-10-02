@@ -7,7 +7,7 @@
 
 ###
 
-<img data-importer="image" align="right" height="152" src="https://i.imgflip.com/65efzo.gif"  />
+<img data-importer="image" align="right" height="152" src="https://i2.wp.com/images.genshin-builds.com/genshin/characters/skirk/image.png?strip=all&quality=100"  />
 
 ###
 
