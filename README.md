@@ -1,4 +1,5 @@
-<h3 data-importer="text" align="center">Hola 👋! Mi nombre es Joseph y soy un programador junior, me gusta aprender y espero prosperar en estos campos</h3>
+<h3 data-importer="text" align="center">Hola 👋! Soy Joseph, desarrollador junior en modo de aprendizaje constante.
+Me encanta escribir código, aprender todos los días y construir proyectos interesantes.😁</h3>
 
 ###
 
