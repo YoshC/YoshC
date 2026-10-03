@@ -8,7 +8,7 @@ Me encanta escribir código, aprender todos los días y construir proyectos inte
 
 ###
 
-<img data-importer="image" align="right" height="152" src="https://i.pinimg.com/736x/10/12/11/1012119961bdebcc738ff12fd1351b3c.jpg"  />
+<img data-importer="image" align="right" height="152" src="https://i2.wp.com/images.genshin-builds.com/genshin/characters/skirk/image.png?strip=all&quality=100"  />
 
 ###
 
