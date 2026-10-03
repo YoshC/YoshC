@@ -1,5 +1,5 @@
 <h3 data-importer="text" align="center">Hola 👋! Soy Joseph, desarrollador junior en modo de aprendizaje constante.
-Me encanta escribir código, aprender todos los días y construir proyectos interesantes.😁</h3>
+Me encanta escribir código, aprender todos los días y construir proyectos interesantes.</h3>
 
 ###
 
