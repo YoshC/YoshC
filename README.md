@@ -8,7 +8,7 @@ Me encanta escribir código, aprender todos los días y construir proyectos inte
 
 ###
 
-<img data-importer="image" align="right" height="152" src="https://img.magnific.com/vector-premium/ojos-manga-que-miran-lagrima-papel-chica-anime-color-blanco-negro-asoma-aislada_380711-443.jpg?semt=ais_hybrid&w=740&q=80"  />
+<img data-importer="image" align="right" height="152" src="https://img.magnific.com/vector-premium/ojos-chicas-manga-anime_380711-531.jpg"  />
 
 ###
 
