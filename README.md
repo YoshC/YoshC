@@ -8,7 +8,7 @@ Me encanta escribir código, aprender todos los días y construir proyectos inte
 
 ###
 
-<img data-importer="image" align="right" height="152" src="https://chatgpt.com/s/m_6ac06154fed48191b730756d13eb4fd8"  />
+<img data-importer="image" align="right" height="152" src="https://i.pinimg.com/736x/ea/6f/70/ea6f705a6ccbc77050cac158bd0cf0e1.jpg"  />
 
 ###
 
