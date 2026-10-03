@@ -8,7 +8,7 @@ Me encanta escribir código, aprender todos los días y construir proyectos inte
 
 ###
 
-<img data-importer="image" align="right" height="152" src="https://img.magnific.com/vector-premium/ojos-chicas-manga-anime_380711-536.jpg?semt=ais_hybrid&w=740&q=80"  />
+<img data-importer="image" align="right" height="152" src="https://static.vecteezy.com/system/resources/thumbnails/033/494/777/small/cute-chibi-girl-wearing-a-cat-hoodie-ai-generative-png.png"  />
 
 ###
 
